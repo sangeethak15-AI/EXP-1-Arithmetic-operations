@@ -4,9 +4,13 @@ To write a java program to print the Arithmetic operations like Addiction, Subtr
 
 ## PROCEDURE:
 1.Import required packages.
+
 2.Declare main method with the signature "public static void main(String[] args)".
+
 3.Get two numbers as input.
+
 4.Perform operations like addition,subtraction,multiplication,division and modulus using the two inputs.
+
 5.Print the output on display.
 ## PROGRAM:
 ```
