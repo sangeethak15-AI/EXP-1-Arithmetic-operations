@@ -14,6 +14,8 @@ To write a java program to print the Arithmetic operations like Addiction, Subtr
 5.Print the output on display.
 ## PROGRAM:
 ```
+##Name:Sangeetha.K
+##Reg.no:212221230085
 import java.util.Scanner;
 public class arithmetic {
     public static void main(String[] args) {
