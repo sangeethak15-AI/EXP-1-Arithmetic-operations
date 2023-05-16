@@ -31,9 +31,9 @@ public class arithmetic {
     }
 }
 ```
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/sangeethak15-AI/EXP-1-Arithmetic-operations/assets/93992063/2da0e8b4-58ec-4689-89cb-7c830d423727)
 
 
-RESULT:
+## RESULT:
 The java program to print the Arithmetic operations like Addiction, Subtraction, Division, Remainder of two numbers was successfully done.
